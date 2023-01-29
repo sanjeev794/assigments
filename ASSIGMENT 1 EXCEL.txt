@@ -1,0 +1,18 @@
+1.Cells are the boxes you see in the grid of an Excel worksheet. Each cell is identified on a worksheet by its reference, the column letter and row number that intersect at the cell's location. The column always comes first in a cell reference.
+
+2.On the Review tab, click Protect Sheet. In the Allow all users of this worksheet to list, select the elements you want people to be able to change. Move the pointer to cells for which the Locked box is checked on the Protection tab of the Format Cells dialog box. By default, users are allowed to select locked cells.
+
+3.Click the sheet that you want to copy. On the Edit menu, click Sheet > Move or Copy Sheet.
+
+4.ctrl+n
+
+5.(i) Title bar
+(ii)  Menu bar
+(iii) Column headings
+(iv)  Row headings
+(v)   Name box
+(vi)  Formula bar
+(vii) Cell
+(viii) Navigation buttons and sheet tabs
+
+6. A cell reference is a relative reference, which means that the reference is relative to the location of the    cell.  for example, you refer to cell A2 from cell C2, you are actually referring to a cell that is two         columns to the left (C minus A)—in the same row (2).
