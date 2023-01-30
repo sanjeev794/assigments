@@ -1,0 +1,20 @@
+1. doller is indicating absolute cell references in formulas.
+
+2.(i)Select the cell that contains the formula.
+  (ii)In the formula bar. , select the reference that you want to change.
+  (iii)Press F4 to switch between the reference types.
+
+3.If a formula contains both a multiplication and division operator—Excel evaluates the operators from left to   right. 
+
+4.(i) The SUM Function (=SUM(A2:A10) Adds the values in cells A2:A10)
+ (ii) The TEXT Function (TEXT(TODAY(),"MM/DD/YY")
+ (iii) The VLOOKUP Function
+ (iv)  The AVERAGE Function
+ (v)   The CONCATENATE Function
+
+5.Subtotal help us to get the totals of several columns of data broken down into various categories.
+
+6.VLOOKUP is an Excel function to lookup and retrieve data from a specific column in table. VLOOKUP supports approximate and exact matching, and wildcards (* ?) for partial matches. The "V" stands for "vertical". Lookup values must appear in the first column of the table, with lookup columns to the right.
+ 
+Syntax:
+VLOOKUP( value, table, index_number, [approximate_match] 
