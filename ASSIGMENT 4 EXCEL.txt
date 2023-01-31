@@ -1,0 +1,16 @@
+1.This is the most popular bar and displayed by default when excel is opened. This tab contains the basic   Clipboard commands, formatting commands, style commands, commands to insert and delete rows or columns, plus   an assortment of worksheet editing commands.
+
+2.It sets to the default width or height.
+
+3. It is necessary to change width and height in excel to fit the data. Excel by default provide equal width   and height with respect to columns and rows. Whenever we enter a lengthy data, few characters will get   displayed and other will be present inside the cell but will be hidden to the user.
+
+4.Ctrl + Shift + 9 
+
+5.(i) Select the range that contains empty cells you want to hide.
+(ii)  On the Home tab, in the Editing group, click Find & Select > Go To Special.
+(iii) In the Go To Special dialog box, select the Blanks radio button, and click OK
+(iv)  Press Ctrl + 9 to hide the corresponding rows
+
+6.(i) Select the cells you want to check for duplicates
+(ii)  Click Home > Conditional Formatting > Highlight Cells Rules > Duplicate Values.
+(ii) In the box next to values with, pick the formatting you want to apply to the duplicate values, and then      click OK.
