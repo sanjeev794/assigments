@@ -1,0 +1,14 @@
+1. If i  need to sum a column or row of numbers. Select a cell next to the numbers you want to sum, click    AutoSum on the Home tab, press Enter,then it is done.
+
+2.Alt+=
+
+3.Launch your Excel sheet and then click on File. Navigate to Options and then select Formulas. Look for Error   checking rules and uncheck Formulas which omit cells in a region. Click OK
+
+4. Click on the cell.
+  Press the Control key on the keyboard. Keep holding it down while you are selecting cells.
+  Hold the left-click button on the mouse and drag it to the cells you want to select.
+  Keep repeating these steps for each cell. It’s an easy way to select non adjacent cells.
+
+5.The contents of the first cell in the selected column will be replaced with the letters 'O-C-W'.
+
+6.A new row is inserted above the cell(s) you originally selected.
