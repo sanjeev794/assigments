@@ -1,0 +1,15 @@
+1.There are 5 types of conditional formatting visualizations available.
+
+2.(i) Click Home > the Borders arrow .
+(ii) Pick Draw Borders for outer borders or Draw Border Grid for gridlines.
+(iii) Click the Borders arrow > Line Color arrow, and then pick a color.
+(iv)  Click the Borders arrow > Line Style arrow, and then pick a line style.
+(v) Select cells you want to draw borders around.
+
+3.select the cell or range of cells that you want to format, and then press Ctrl+Shift+$.
+
+4.On the Home tab, in the Number group, click the icon next to Number to display the Format Cells dialog box. In the Format Cells dialog box, in the Category list, click Percentage.
+
+5.To merge two or more cells highlight them and then press the following keys at the same time ALT H+M+M.
+
+6.Select the column, or range where you'll be putting the values, then use CTRL+1 to bring up the Format > Cells dialog and on the Number tab select Text.
