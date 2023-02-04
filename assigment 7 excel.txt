@@ -1,0 +1,14 @@
+1.(i) Highlight the data you want to sum. To select an entire column, click on the column name. Otherwise, drag      over the cells to select your range.
+  (ii)At the bottom of the screen, you’ll see information about your selection such as the average of all your values, and the number of data points in the range. You will also see a sum of all the values in your selected cells.
+
+2.(i) select one column and hold with control key.
+     then now select the another column and same as rows.
+
+3.Excel AutoFit feature is designed to automatically resize cells in a worksheet to accommodate different sized data without having to manually change the column width and row height.
+
+4.(i) Click where you want in your table to add a row or column and then click the Layout tab.
+   (ii)To add rows, click Insert Above or Insert Below and to add columns, click Insert Left or Insert Right.
+
+5.On the Home tab, in the Cells group, click Format. Do one of the following: Under Visibility, click Hide & Unhide, and then click Unhide Rows or Unhide Columns.
+
+6.The Autosum is used to add, average, number count, maximum, minimum values of the selected range of rows or cells together and the result is displayed in the cell below the range selected.
