@@ -1,0 +1,25 @@
+1. Quick Access Toolbar:  Quick Access Toolbar contains a set of commands that are independent of the currently                           displayed tab on the ribbon.
+   File Tab:When you click the File tab, you see many of the same basic commands that you saw on the File menu             in earlier releases of Office, such as Open, Save, and Print.
+   Title Bar:The title bar displays both the name of the application and the name of the spreadsheet.
+             Control Buttons:Form Controls are objects which you can place onto an Excel Worksheet which give              you the functionality to interact with your models data.
+   Menu Bar:The Menu Bar at the top of the screen gives you access to different commands that are used for such             tasks as opening and closing files, printing documents, formatting data, and other operations
+Ribbon/Toolbar: It is to the left of the Minimize icon
+
+2.Businesses use Excel to store, visualize, and analyze data. Some example business use-cases include,   Inventory tracking and management.
+
+3.You can add custom tabs or rename and change the order of the default tabs that are built in to Office. 
+ (i) Go to home click option .right click
+ (ii) click to customize ribbion 
+ (iii) in customize you can add as many tab you want,click ok
+
+
+4.     To do this	                               Press
+Italicize text or remove italic formatting.	Ctrl+I or Ctrl+3
+Bold text or remove bold formatting.	        Ctrl+B or Ctrl+2
+Underline text or remove underline.	       Ctrl+U or Ctrl+4
+Apply or remove strikethrough formatting.	Ctrl+5
+
+
+5.modeling, visualization, reports, dynamic charts, etc. It can help you understand the meaning of many  operations before further learning other tools (such as Python and R).
+
+6.Go to Insert > Header or Footer. Choose from a list of standard headers or footers, go to the list of Header or Footer options, and select the header or footer that you want. Or, create your own header or footer by selecting Edit Header or Edit Footer.
