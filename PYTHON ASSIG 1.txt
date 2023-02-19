@@ -1,0 +1,34 @@
+1. * -expression
+   'hello'-string
+   -87.8-integer
+    - expression
+    /-expression
+    +-expression
+    6-integer
+ 2.Variables are symbols that you can use to store data in a program.
+   Strings are data  so we can use them to fill up a variable. 
+
+3.Integer:
+  Integer data types often represent whole numbers in programming. An integer's value moves from one integer to   another without acknowledging fractional numbers in between. The number of digits can vary based on the   device, and some programming languages may allow negative values.
+
+ Date:
+  This data type stores a calendar date with other programming information. Dates are typically a combination   of integers or numerical figures. Since these are typically integer values, some programs can store basic   mathematical operations like days elapsed since certain events or days away from an upcoming event.
+
+ Floating point:
+  Floating-point data types represent fractional numbers in programming. There are two main floating-point data   types, which vary depending on the number of allowable values in the string.
+
+4.An expression is a combination of operators, constants and variables. An expression may consist of one or more operands, and zero or more operators to produce a value.
+        The expression in Python produces some value or result after being interpreted by the Python interpreter. An expression in Python is a combination of operators and operands.
+
+5.Expressions can be assigned or used as operands, while statements can only be declared.
+
+6.The bacon variable is set to 22.
+
+7.Both expressions evaluate to the string 'spamspamspam'
+
+8.Variable names cannot begin with a number.
+
+9.The int(), float(), and str() functions will evaluate to the integer, floating-point number, and string versions of the value passed to them.
+
+10.The expression causes an error because 99 is an integer, and only strings can be concatenated to other strings with the + operator. The correct way is 'I have eaten ' + str(99) + ' burritos'.
+
