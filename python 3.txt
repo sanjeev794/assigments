@@ -1,0 +1,27 @@
+1. we can avoid rewriting the same logic or code again and again in a program.
+
+2. when the function is called
+
+3.def keyword
+
+4. The Function which calls another Function is called Calling Function and function which is called by another Function is call Called Function.
+
+5.four active python scopes.
+
+6.Each call of the function creates new local variables, and their lifetimes expire when the function returns to the caller.
+
+7.A return statement is overall used to invoke a function so that the passed statements can be executed.
+
+8.return value of the called function is undefined.
+
+9.Normally, when you create a variable inside a function, that variable is local, and can only be used inside that function. To create a global variable inside a function, you can use the global keyword.
+
+10.None is a data type of its own (NoneType).
+
+11.That import statement imports a module named areallyourpetsnamederic. 
+
+12.The function can be called with spam. bacon().
+
+13.use break and the loop will end.
+
+14.The try and except block in Python is used to catch and handle exceptions.
