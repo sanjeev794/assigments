@@ -1,0 +1,32 @@
+1.The empty list value, which is a list value that contains no items. 
+
+2.spam[2] = 'hello'
+
+3. This eventually evaluates to 3. 
+
+4.   "d"
+5.['a', 'b']
+
+6.  "1"
+
+7.[3.14, 'cat', 11, 'cat', True, 99]
+
+8.[3.14, 11, 'cat', True]
+
+9.The operator for list concatenation is +, while the operator for replication is *.
+
+10.While append() will add values only to the end of a list, insert() can add them anywhere in the list.
+
+11.pop() and clear().
+
+12.a string's length is the number of characters in the string; a list's length is the number of items in the list.
+
+13.tuples are immutable as opposed to lists which are mutable.
+
+14.t=(42)
+
+15.Using the tuple() built-in function.
+
+16.Variables will contain references to list values rather than list values themselves.
+
+17.copy() create reference to original object. If you change copied object - you change the original object. . deepcopy() creates new object and does real copying of original object to new one.
